@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.Background{
+  /* background-color: RGB(43, 37, 62); */
+  background-color: red;
+  height: 100vh;
+  color: RGB(42, 36, 61);
+  background-attachment: fixed;
+  
+
+}
+

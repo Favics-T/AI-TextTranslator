@@ -70,7 +70,7 @@ const Chat = () => {
                 <div className='relative'>
                     <input 
                         type="text"
-                        className='bg-white w-96 rounded-xl text-blue-800 p-2'
+                        className='bg-white md:w-96 w-40 rounded-xl text-blue-800 p-2'
                         value={userInput}
                         onChange={(e) => setUserInput(e.target.value)}
                         placeholder="Enter text here..."

@@ -63,7 +63,7 @@ const Chat = () => {
     
 
     return (
-        <div className='bg-[#000b53] h-screen w-full flex flex-col items-center justify-center'>
+        <div className='bg-[#000b53] h-screen w-full flex flex-col md:flex-row items-center justify-center'>
             <div className='flex gap-10 text-blue-500'>
 
                 {/* Input Field */}
